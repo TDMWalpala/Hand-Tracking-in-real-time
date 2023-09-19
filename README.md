@@ -1,4 +1,3 @@
-# Hand-Tracking-in-real-time
 # Hand Tracking
 
 This repository contains Python scripts for hand tracking using OpenCV and MediaPipe. It utilizes the MediaPipe library for hand detection and OpenCV for video capture and display.
